@@ -4,4 +4,3 @@
 $ docker-compose run web django-admin.py startproject mysite .
 $ docker-compose up 
 ```
-# django-sample-project
